@@ -39,6 +39,8 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
+gem 'enumerize'
+gem "cancan"
 
 group :development, :test do
  gem "rspec-rails"
